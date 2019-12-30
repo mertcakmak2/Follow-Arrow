@@ -1,0 +1,11 @@
+body{
+    background-color: white;
+}
+
+img{
+    position: absolute;
+}
+
+.sbt{
+    transform-origin: 0;
+}
